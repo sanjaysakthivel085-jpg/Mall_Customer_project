@@ -1,4 +1,4 @@
-# Mall_Customer_project
+# Mall_Customer_Project
 
 ## Overview
 
